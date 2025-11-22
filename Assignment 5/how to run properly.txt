@@ -1,0 +1,6 @@
+Either create virtual environment:
+    terminal -- $ python3 -m venv venv 
+                $ source venv/bin/activate
+                $ pip install pycryptodome
+         (venv) $ python <script_name.py>
+
